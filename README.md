@@ -11,5 +11,7 @@
 ## 使用
 ```bash
 python3 analyzer.py test_access.log
+```
 ## 运行效果
-`<img width="1713" height="566" alt="demo1" src="https://github.com/user-attachments/assets/9d182e2d-02ec-4ea3-9b80-375aedfe3039" />`
+<img width="1713" height="566" alt="demo1" src="https://github.com/user-attachments/assets/34b58cc6-f3e4-4dc4-8726-5e583ecbf3bf" />
+
