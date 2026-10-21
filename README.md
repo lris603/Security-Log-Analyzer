@@ -10,6 +10,6 @@
 - 结合HTTP协议与OWASP Top 10 漏洞特征（针对 `%27 OR 1=1`的拦截）
 ## 使用# Security Log Analyzer (Web日志智能分析工具)
 ```bash
-python3 analyzer.py test_access.log```
+python3 analyzer.py test_access.log
 ## 运行效果
 ![Uploading demo1.png…]()
