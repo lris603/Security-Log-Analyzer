@@ -12,4 +12,4 @@
 ```bash
 python3 analyzer.py test_access.log
 ## 运行效果
-
+<img width="1713" height="566" alt="demo1" src="https://github.com/user-attachments/assets/ebf2d367-4775-4eb3-9cc1-21e623be2b7e" />
