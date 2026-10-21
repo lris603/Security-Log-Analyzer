@@ -1,4 +1,4 @@
-# Security Log Analyzer (Web日志智能分析工具）
+## Security Log Analyzer (Web日志智能分析工具）
 ## 目的
 使用Python快速识别日志中的恶意攻击载荷，提取攻击者IP，辅助安全人员进行应急响应。
 ## 功能
@@ -10,6 +10,6 @@
 - 结合HTTP协议与OWASP Top 10 漏洞特征（针对 `%27 OR 1=1`的拦截）
 ## 使用# Security Log Analyzer (Web日志智能分析工具)
 ```bash
-python3 analyzer.py test_access.log
+python3 analyzer.py test_access.log```
 ## 运行效果
-<img width="1713" height="566" alt="demo1" src="https://github.com/user-attachments/assets/ebf2d367-4775-4eb3-9cc1-21e623be2b7e" />
+![Uploading demo1.png…]()
